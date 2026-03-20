@@ -1,0 +1,3 @@
+x_centre: -8.63
+y_centre: -6.49
+z_centre: 18.30
